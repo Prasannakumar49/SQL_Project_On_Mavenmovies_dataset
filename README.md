@@ -11,6 +11,7 @@
 
 /*
 Description :- 
+
 		• This is a Mavenmovies Dataset SQL Project. This database contains 19 tables.
 		
 		• Retail table has 1000 rows.
@@ -18,6 +19,7 @@ Description :-
 		• Project is prepared by Prasanna Kumar.
 		
 Approach :- 
+
 		• Understanding the dataset
 		
 		• Creating business questions
